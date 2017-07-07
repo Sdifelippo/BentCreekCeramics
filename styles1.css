@@ -1,0 +1,158 @@
+body {
+  background-color: #F2F1E8;
+  width: auto;
+  margin: 0;
+  max-width: 1904px;
+}
+
+img {
+  padding-left: 5px;
+  margin-top: 15px
+}
+
+.firstrow{
+  margin-left: -5px;
+}
+.image2{
+  padding-left: 10px;
+}
+
+#main-navigation {
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+header#site-header {
+  width: auto;
+  margin: 0;
+  background-color: white;
+}
+
+a {
+  text-transform: uppercase;
+  margin-top: -50px;
+  margin-right: 100px;
+}
+
+h1 {
+  text-align: center;
+  font-family: ‘Merriweather’, serif;
+  font-size: 53px;
+}
+
+h3 {
+  text-align: center;
+ font-family: ‘Merriweather’, serif;
+ font-size: 34px;
+     font-weight: 100;
+  font-style: normal;
+  margin-top: -40px;
+margin-right: 18px;
+ }
+
+
+
+p {
+  background-color: #384134;
+  color: #F2F1E8;
+  position: absolute;
+  display: inline-flex;
+  text-indent: 4px;
+  width: 140px;
+  height: 25px;
+  margin-top: 320px;
+  margin-left: 10px;
+  padding-top: 15px;
+}
+
+p1 {
+  background-color: #384134;
+  color: #F2F1E8;
+  position: absolute;
+  display: inline-flex;
+  text-indent: 15px;
+  width: 55px;
+  height: 24px;
+  margin-top: 320px;
+  padding-top: 12px;
+  margin-left: 10px;
+}
+
+p2 {
+  background-color: #384134;
+  color: #F2F1E8;
+  position: absolute;
+  display: inline-flex;
+  text-indent: 15px;
+  width: 85px;
+  height: 24px;
+  margin-top: 320px;
+  padding-top: 12px;
+  margin-left: 10px;
+}
+
+p3 {
+  background-color: #384134;
+  color: #F2F1E8;
+  position: absolute;
+  display: inline-flex;
+  text-indent: 15px;
+  width: 100px;
+  margin-top: 200px;
+  margin-left: 10px;
+  height: 35px;
+  padding-top: 10px;
+}
+
+p4 {
+  background-color: #384134;
+  color: #F2F1E8;
+  position: absolute;
+  display: inline-flex;
+  text-indent: 15px;
+  width: 170px;
+  margin-top: 200px;
+  margin-left: 10px;
+  height: 35px;
+  padding-top: 10px;
+}
+
+p5 {
+  background-color: #384134;
+  color: #F2F1E8;
+  position: absolute;
+  display: inline-flex;
+  text-indent: 15px;
+  width: 135px;
+  margin-top: 200px;
+  margin-left: 10px;
+  height: 35px;
+  padding-top: 10px;
+}
+
+p6 {
+  background-color: #384134;
+  color: #F2F1E8;
+  position: absolute;
+  display: inline-flex;
+  text-indent: 15px;
+  width: 165px;
+  margin-top: 200px;
+  margin-left: 10px;
+  height: 35px;
+  padding-top: 10px;
+}
+
+
+
+.footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 2rem;
+  background-color: #384134;
+  text-align: left;
+  color: #F2F1E8;
+  font-size: larger;
+}
